@@ -1,0 +1,11 @@
+{
+  "name": "Project1",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "angular": "^1.6.3",
+    "bootstrap": "^3.3.7"
+  }
+}
